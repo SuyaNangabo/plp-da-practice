@@ -1,5 +1,6 @@
 # plp-da-practice
-**Brenda Suya Nangabo**
+**Name: Brenda Suya Nangabo**
+
 A practice repository for my data analytics course, used to learn the GitHub submission workflow.
 It holds my Week 1 Python foundations notebook and notes on what I learned.
 
